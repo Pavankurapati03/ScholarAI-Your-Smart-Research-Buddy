@@ -46,24 +46,3 @@ Ensure all dependencies are installed using:
 ```bash
 pip install -r requirements.txt
 ```
-
-## 📸 Screenshots  
-🚀 *[Add screenshots of the interface here]*  
-
-## 🤝 Contributing  
-Feel free to submit issues or pull requests to enhance the project. Contributions are welcome!  
-
-## 📄 License  
-This project is licensed under the MIT License.  
-
----
-
-⚡ **Developed with ❤️ by [Your Name]**  
-```
-
-### **How to Use This README:**
-1. Replace **"yourusername/your-repo-name"** with your actual GitHub repository link.  
-2. Add **screenshots** of the interface to the "Screenshots" section.  
-3. Add your **name** at the bottom.  
-
-Once done, save this as **README.md** in your project folder. 🚀
