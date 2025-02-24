@@ -1,6 +1,3 @@
-Here is a **README.md** file for your project:  
-
-```markdown
 # 📚 Virtual Research Assistant  
 
 ## 🔍 Overview  
