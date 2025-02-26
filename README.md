@@ -1,4 +1,4 @@
-# 📚 Virtual Research Assistant  
+# 📚 ScholarAI 
 
 ## 🔍 Overview  
 Virtual Research Assistant is an AI-powered tool that helps researchers and students fetch relevant research papers from **ArXiv** and **Google Scholar**. It provides an interactive interface to input search queries and retrieve academic papers efficiently.  
@@ -40,7 +40,7 @@ streamlit run app.py
 - `streamlit`  
 - `arxiv`  
 - `scholarly`  
-- `openai` (if using GPT-based summarization)  
+- `Llama 3.3 70B`  (Groq API)
 
 Ensure all dependencies are installed using:  
 ```bash
